@@ -1,7 +1,7 @@
-## Associate Professor Dr. Matjaž Kukar  1
+## Associate Professor Dr. Matjaž Kukar
 <br/><br/>     
 
-![Me](matja%C5%BE_kukar_2.png)
+![Me](https://fri.uni-lj.si/sites/default/files/matja%C5%BE_kukar_2.png)
 
 I am associate professor at [Faculty of computer and information science](http://www.fri.uni-lj.si/), in the  [Cognitive modelling laboratory](http://lkm.fri.uni-lj.si/).
 I received the Ph.D. degree in computer science in 2001 from the University of Ljubljana. I have B.Sc. and M.Sc. degrees from the same university. I am an associate professor at the Laboratory for Cognitive Modelling. My research interests include machine learning, data mining and their applications in medicine, ROC analysis, cost-sensitive learning, combinations of classifiers, classification reliability in machine learning, and spatial learning. I am the co-author of the book Machine Learning and Data Mining: Introduction to Principles and Algorithms (with Igor Kononenko) and more than 100 scientific publications in these fields.
