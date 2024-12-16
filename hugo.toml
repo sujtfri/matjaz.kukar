@@ -1,12 +1,12 @@
-baseURL = 'https://sujtfri.github.io/ime-priimek/' # change member_repository to your repository name
+baseURL = 'https://sujt.fri.uni-lj.si/matjaz.kukar/' # change member_repository to your repository name
 theme = "sujt_theme"
 
 [params]
-rootURL = "https://sujtfri.github.io/"
+rootURL = "https://sujt.fri.uni-lj.si/"
 
 [languages]
   [languages.en]
-    title = 'MLLT'
+    title = 'SUJT'
     contentDir = 'content/english'
     languageName = 'English'
     weight = 10
