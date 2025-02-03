@@ -11,7 +11,7 @@ I received the Ph.D. degree in computer science in 2001 from the University of L
 
 ### Contact:
 - Phone: +386 1 479 8235
-- E-mail: [matjaz.kukar@fri.uni-lj.si](mailto:matjaz.kukar@fri.uni-lj.si)
+- E-mail: {{< cloakemail address="matjaz.kukar@fri.uni-lj.si" display="Matjaž.Kukar＠ULFRI" >}}  
 - Office: R2.04 
 - Office hours: by appointment
 

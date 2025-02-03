@@ -1,5 +1,5 @@
 baseURL = 'https://sujt.fri.uni-lj.si/matjaz.kukar/' # change member_repository to your repository name
-theme = "sujt_theme"
+theme = ["hugo-cloak-email", "sujt_theme"]
 
 [params]
 rootURL = "https://sujt.fri.uni-lj.si/"
