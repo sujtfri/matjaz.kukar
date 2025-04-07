@@ -48,8 +48,12 @@ rootURL = "https://sujtfri.github.io/"
         weight = 100
       [[languages.si.menus.main]]
         name = "Poučevanje"
-        url = "/si/lecturing/" 
+        url = "/si/teaching/" 
         weight = 200
+      [[languages.si.menus.main]]
+        name = "Bibliografija"
+        url = "/si/bibliography/" 
+        weight = 250
       [[languages.si.menus.main]]
         name = "Projekti"
         url = "/si/projects/" 

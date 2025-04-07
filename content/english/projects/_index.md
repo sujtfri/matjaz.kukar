@@ -5,6 +5,8 @@ draft = false
 
 ### Projects
 
+*   [Artificial intelligence and inteligent systems](/en/projects/xx)  
+    ARIS research programmes 01.01.2022 - 31.12.2027
 *   [STRATIFYHF - Artificial intelligence-based decision support system for risk stratification and early detection of heart failure in primary and secondary care](/en/projects/1774)  
     (STRATIFYHF), 01.06.2023 - 31.05.2027
 

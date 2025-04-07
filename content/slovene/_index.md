@@ -3,46 +3,62 @@ title = "Matjaž Kukar"
 draft = false
 +++
 
+### Izredni profesor dr. Matjaž Kukar<br/>
+
 {{< columns alignment="center" >}}
 
-<img src="/ime-priimek/img/placeholder.jpg" class="img-fluid" style="width: 60%"> 
 
-{{< column >}}
+<img src="https://fri.uni-lj.si/sites/default/files/matja%C5%BE_kukar.png" alt="Me" width="200">
+  
 
-Integer consectetur nisl at lacus faucibus, non tristique purus ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis sagittis mattis vulputate. Curabitur at sagittis erat, id malesuada mi. Morbi libero eros, varius sit amet arcu vel, lacinia lacinia elit. Vestibulum quis ipsum ut ex tristique aliquam. Nunc facilisis felis ut cursus pellentesque. Suspendisse volutpat lectus augue, sed pellentesque massa finibus at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam vestibulum turpis non lobortis semper. Pellentesque nulla dolor, lobortis eu quam lobortis, dignissim viverra dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris eget urna nisi. Vestibulum condimentum, arcu sit amet gravida rhoncus, leo nisi elementum urna, ac tincidunt ex odio sed orci.
+
+{{< column alignment="start" >}}
+
+Sem izredni profesor na [Fakulteti za računalništvo in informatiko](http://www.fri.uni-lj.si/), v [Laboratoriju za strojno učenje in jezikovne tehnologije (SUJT)](https://sujt.fri.uni-lj.si/).
 
 {{< endcolumns >}}
 
 ---
 
-## Biography
+### Biografija
 
-Integer consectetur nisl at lacus faucibus, non tristique purus ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis sagittis mattis vulputate. Curabitur at sagittis erat, id malesuada mi. Morbi libero eros, varius sit amet arcu vel, lacinia lacinia elit. Vestibulum quis ipsum ut ex tristique aliquam. Nunc facilisis felis ut cursus pellentesque. Suspendisse volutpat lectus augue, sed pellentesque massa finibus at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam vestibulum turpis non lobortis semper. Pellentesque nulla dolor, lobortis eu quam lobortis, dignissim viverra dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris eget urna nisi. Vestibulum condimentum, arcu sit amet gravida rhoncus, leo nisi elementum urna, ac tincidunt ex odio sed orci.
+Leta 2001 sem doktoriral iz računalništva na Univerzi v Ljubljani. Imam dipl. in mag. diplome na isti univerzi. Sem izredni profesor v Laboratoriju za strojno učenje in jezikovne tehnologije. Moje raziskovalno delo vključuje strojno učenje, podatkovno rudarjenje in aplikacije v medicini, analizo ROC, cenovno občutljivo učenje, kombinacije klasifikatorjev, zanesljivost klasifikacije v strojnem učenju in časovno-prostorsko učenje. Sem soavtor knjige Machine Learning and Data Mining: Introduction to Principles and Algorithms (z Igorjem Kononenkom) in več kot 100 znanstvenih publikacij s teh področij.
+
+
 
 ---
 
 {{< columns >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc metus ipsum, vehicula et congue sit amet, rutrum blandit augue. Aenean mattis pulvinar lectus non consequat. Sed at volutpat ante. Ut consequat, elit eu finibus interdum, libero justo varius odio, sit amet posuere dui erat at augue. Morbi pharetra lorem gravida dui tempor, lobortis molestie augue venenatis. Nulla ac ex convallis, sagittis tortor nec, sagittis arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sodales vestibulum tempus. Ut in velit vitae ligula ultricies lobortis.
+### Poučevanje
+
+*   [Tehnologija uporavljanja podatkov](https://www.fri.uni-lj.si/en/course/63226)
+*   [Podatkovne baze](https://www.fri.uni-lj.si/en/course/63707)
+*   [Velepodatki](https://www.fri.uni-lj.si/en/course/63560)
+
 
 
 {{< column >}}
 
-Integer consectetur nisl at lacus faucibus, non tristique purus ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis sagittis mattis vulputate. Curabitur at sagittis erat, id malesuada mi. Morbi libero eros, varius sit amet arcu vel, lacinia lacinia elit. Vestibulum quis ipsum ut ex tristique aliquam. Nunc facilisis felis ut cursus pellentesque. Suspendisse volutpat lectus augue, sed pellentesque massa finibus at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam vestibulum turpis non lobortis semper. Pellentesque nulla dolor, lobortis eu quam lobortis, dignissim viverra dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris eget urna nisi. Vestibulum condimentum, arcu sit amet gravida rhoncus, leo nisi elementum urna, ac tincidunt ex odio sed orci.
+### Bibliografija
+* [Izbrana bibliografija](bibliography/)
+* [COBISS](https://bib.cobiss.net/bibliographies/si/webBiblio/bib201_20241118_235201_14565.html)
 
 {{< endcolumns >}}
 
-## Contact Information
+---
+### Kontakt  
 
-- **Email:** {{< cloakemail address="jane.doe@example.com" display="Send me an email!" >}}
-- **Phone:** +386 123 456 789  
-- **Office:** Room 101, Faculty of Computer and Information Science, University of Ljubljana  
-- **GitHub:** [github.com/johndoe](https://github.com/johndoe)  
-- **LinkedIn:** [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)  
+- **Email:** {{< cloakemail address="matjaz.kukar@fri.uni-lj.si" display="Matjaž.Kukar＠ULFRI" >}}  
+- **Telefon:** +386 1 479 8235  
+- **Kabinet:** R2.04
+- **Naslov:**  Faculty of Computer and Information Science, University of Ljubljana, Večna pot 113, 1000 Ljubljana, Slovenia  
+- **GitHub:** [github.com/matjazk](https://github.com/matjazk)  
+- **LinkedIn:** [linkedin.com/in/matjazkukar](https://www.linkedin.com/in/matjazkukar/)  
+- **ORCID:** [0000-0002-1242-7947](https://orcid.org/0000-0002-1242-7947)
 
-# Subjects
+{{< content_row "contact" >}}
 
-{{< content_row "lecturing" >}}
 
 # Blog
 
