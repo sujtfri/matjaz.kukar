@@ -1,4 +1,4 @@
-baseURL = 'https://sujtfri.github.io/ime-priimek/' # change member_repository to your repository name
+baseURL = 'https://sujtfri.github.io/matjaz.kukar/' # change member_repository to your repository name
 theme = ["hugo-cloak-email","sujt_theme"]
 
 [params]
@@ -18,9 +18,13 @@ rootURL = "https://sujtfri.github.io/"
         url = "/" 
         weight = 100
       [[languages.en.menus.main]]
-        name = "Lecturing"
-        url = "/lecturing/" 
+        name = "Teaching"
+        url = "/teaching/" 
         weight = 200
+      [[languages.en.menus.main]]
+        name = "Bibliography"
+        url = "/bibliography/" 
+        weight = 250
       [[languages.en.menus.main]]
         name = "Projects"
         url = "/projects/" 

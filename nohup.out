@@ -1,0 +1,8 @@
+port 1313 already in use, attempting to use an available port
+Watching for changes in /Users/matjazk/OneDriveUL/FRI/SUJT/matjaz.kukar/{content,static}
+Watching for config changes in /Users/matjazk/OneDriveUL/FRI/SUJT/matjaz.kukar/hugo.toml
+Start building sites … 
+hugo v0.145.0+extended+withdeploy darwin/arm64 BuildDate=2025-02-26T15:41:25Z VendorInfo=brew
+
+Built in 7 ms
+Error: error building site: process: readAndProcessContent: "/Users/matjazk/OneDriveUL/FRI/SUJT/matjaz.kukar/content/slovene/_index.md:6:1": failed to extract shortcode: template for shortcode "columns" not found
